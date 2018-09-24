@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------------------------------------------------
+PROJET CHALLENGE KAGGLE ET BIG DATA
+PROF : Septier F.
+AUTORS : Yacouba.k & Pima.B
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Ce fichier contiendra la liste des tâches à faire pour la bonne réalisation du projet :  
+
+1- Data cleaning
+2- Data  Visualisation 
+3- Random Forest ***
